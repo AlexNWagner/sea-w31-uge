@@ -20,3 +20,4 @@ git branch = displays all current branches of this Git repository
 git checkout * = changes your position to the * listed branch
 
 touch * = creates an empty file (ex: touch git_notes.txt creates a new file with no content within it)
+
